@@ -1,0 +1,4 @@
+# The zips live on the CDN; Package.swift references them by URL and checksum.
+/artifacts/
+.build/
+.swiftpm/
